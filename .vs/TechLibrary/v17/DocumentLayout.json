@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibraryapi\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|solutionrelative:techlibraryapi\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibraryapi\\infraestructure\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|solutionrelative:techlibraryapi\\infraestructure\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibraryapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|solutionrelative:techlibraryapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibraryapi\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|solutionrelative:techlibraryapi\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibraryapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F25A3-4BA5-4A0F-B2AB-8ED213CE7085}|TechLibraryApi\\TechLibrary.Api.csproj|solutionrelative:techlibraryapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA6A420-DD2C-4A37-91CA-CF22EACA1070}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA6A420-DD2C-4A37-91CA-CF22EACA1070}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA6A420-DD2C-4A37-91CA-CF22EACA1070}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\vitor\\documents\\github\\techlibrary\\techlibrary.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA6A420-DD2C-4A37-91CA-CF22EACA1070}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibraryApi\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "TechLibraryApi\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:37:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:35:55.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TechLibraryApi\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TechLibraryApi\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:35:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechLibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\Infraestructure\\TechLibraryDbContext.cs",
+              "RelativeDocumentMoniker": "TechLibraryApi\\Infraestructure\\TechLibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\Infraestructure\\TechLibraryDbContext.cs",
+              "RelativeToolTip": "TechLibraryApi\\Infraestructure\\TechLibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:33:44.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechLibrary.Api",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\TechLibrary.Api.csproj",
+              "RelativeDocumentMoniker": "TechLibraryApi\\TechLibrary.Api.csproj",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\TechLibrary.Api.csproj",
+              "RelativeToolTip": "TechLibraryApi\\TechLibrary.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T01:32:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibraryApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibraryApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibraryApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:28:34.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseErrorMessagesJson.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\Github\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:23:44.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
